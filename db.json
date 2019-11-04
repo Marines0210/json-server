@@ -14,10 +14,11 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
-  },
-  "casaaa": {
-    "name": "typicode"
+    "userId": 1,
+    "name": "Marines Méndez",
+    "username": "MGMarines",
+    "email": "marines@codigofacilito.com",
+    "image": "https://i.ibb.co/QkG2dMh/perfil.jpg"
   }
 }
 
