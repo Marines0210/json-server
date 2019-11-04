@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "userId": 1, "id": 1, "title": "¿Que pienso sobre la adopcion de animal?",},
-    { "userId": 1, "id": 2, "title": "¿Como solucionar el calentamieto global?", },
-    { "userId": 2, "id": 3, "title": "¿Como solucionar el calentamieto global?",}
+    {  "id": 1, "title": "¿Que pienso sobre la adopcion de animal?",},
+    {  "id": 2, "title": "¿Como solucionar el calentamieto global?", },
+    { "id": 3, "title": "¿Como solucionar el calentamieto global?"}
   ],
   "comments": [
     { "id": 1, "body": "Claro que sii concuerdo contigo", "postId": 1 },
