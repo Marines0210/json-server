@@ -1,8 +1,4 @@
-{ "counts": [ 
-    { "id": 1,"name": "Marines Méndez", "username": "MGMarines", "email": "marines@codigofacilito.com" },
-    { "id": 2,"name": "Clementine Bauch", "username": "Samantha", "email": "Nathan@yesenia.net"},
-    { "id": 3, "name": "Patricia Lebsack", "username": "Karianne", "email": "Julianne.OConner@kory.org" }
-  ],
+{ 
  "users": [ 
     { "id": 1,"name": "Marines Méndez", "username": "MGMarines", "email": "marines@codigofacilito.com" },
     { "id": 2,"name": "Clementine Bauch", "username": "Samantha", "email": "Nathan@yesenia.net"},
