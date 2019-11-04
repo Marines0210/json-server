@@ -1,15 +1,11 @@
 {
   "posts": [
-    {  "id": 1, "title": "¿Que pienso sobre la adopcion de animal?",},
-    {  "id": 2, "title": "¿Como solucionar el calentamieto global?", },
-    { "id": 3, "title": "¿Como solucionar el calentamieto global?"}
+    { "id": 1, "title": "¿Que pienso sobre la adopcion de animal?", "author": "joseee" }
   ],
   "comments": [
-    { "id": 1, "body": "Claro que sii concuerdo contigo", "postId": 1 },
-    { "id": 2, "body": "Estoy en desacuerdo", "postId": 1 }
+    { "id": 2, "body": "Estoy en desacuerdo", "postId": 1}
   ],
-  "profile": {
+  "profile": {     
     "userId": 1,
-    "name": "Marines"
-  }
+    "name": "Marines" }
 }
