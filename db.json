@@ -1,9 +1,8 @@
 {
-
   "posts": [
-    { "userId": 1, "id": 1, "title": "¿Que pienso sobre la adopcion de animal?", "body": "ffffffff" },
-    { "userId": 1, "id": 2, "title": "¿Como solucionar el calentamieto global?", "body": "some comment" },
-    { "userId": 2, "id": 3, "title": "¿Como solucionar el calentamieto global?", "body": "some comment"}
+    { "userId": 1, "id": 1, "title": "¿Que pienso sobre la adopcion de animal?",},
+    { "userId": 1, "id": 2, "title": "¿Como solucionar el calentamieto global?", },
+    { "userId": 2, "id": 3, "title": "¿Como solucionar el calentamieto global?",}
   ],
   "comments": [
     { "id": 1, "body": "Claro que sii concuerdo contigo", "postId": 1 },
@@ -11,7 +10,6 @@
   ],
   "profile": {
     "userId": 1,
-    "name": "Marines",
-    "email": "Marines@codigofacilito.com",
+    "name": "Marines"
   }
 }
