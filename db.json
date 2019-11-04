@@ -5,13 +5,13 @@
     { "id": 3, "name": "Patricia Lebsack", "username": "Karianne", "email": "Julianne.OConner@kory.org" }
   ],
   "posts": [
-    { "id": 1, "title": "¿Porque adoptar animales?", "userId": 1},
-    { "id": 2, "title": "¿Que pienso del calentamiento global?", "userId": 1},
-    { "id": 3, "title": "Post 3", "userId": 2 }
+    { "id": 1, "title": "¿Porque adoptar animales?","body": "piesoo queee", "userId": 1},
+    { "id": 2, "title": "¿Que pienso del calentamiento global?","body": "talvez podria", "userId": 1},
+    { "id": 3, "title": "Post 3","body": "esooooo", "userId": 2 }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "estoy de acuerdo", "postId": 1, "username": "Samantha" },
+    { "id": 2, "body": "Estoy en desacuerdo", "postId": 1, "username": "Karianne" }
   ],
   "profile": {
     "userId": 1,
