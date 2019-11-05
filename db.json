@@ -1,8 +1,8 @@
 { 
  "users": [ 
-    { "id": 1,"name": "Marines Méndez", "username": "MGMarines", "email": "marines@codigofacilito.com" },
-    { "id": 2,"name": "Clementine Bauch", "username": "Samantha", "email": "Nathan@yesenia.net"},
-    { "id": 3, "name": "Patricia Lebsack", "username": "Karianne", "email": "Julianne.OConner@kory.org" }
+    { "id": 1,"name": "Marines Méndez", "username": "MGMarines", "email": "marines@codigofacilito.com", "image": "https://i.ibb.co/QkG2dMh/perfil.jpg" },
+    { "id": 2,"name": "Clementine Bauch", "username": "Samantha", "email": "Nathan@yesenia.net", "image": "https://i.ibb.co/QkG2dMh/perfil.jpg"},
+    { "id": 3, "name": "Patricia Lebsack", "username": "Karianne", "email": "Julianne.OConner@kory.org", "image": "https://i.ibb.co/QkG2dMh/perfil.jpg" }
   ],
   "posts": [
     { "id": 1, "title": "¿Porque adoptar animales?","body": "piesoo queee", "userId": 1},
