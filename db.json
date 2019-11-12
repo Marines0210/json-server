@@ -13,12 +13,5 @@
     { "id": 1, "body": "estoy de acuerdo", "postId": 1, "username": "Samantha" },
     { "id": 2, "body": "Estoy en desacuerdo", "postId": 1, "username": "Karianne" }
   ],
-  "profile": {
-    "userId": 1,
-    "name": "Marines Méndez",
-    "username": "MGMarines",
-    "email": "marines@codigofacilito.com",
-    "image": "https://i.ibb.co/QkG2dMh/perfil.jpg"
-  }
 }
 
