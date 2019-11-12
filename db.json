@@ -12,6 +12,6 @@
   "comments": [
     { "id": 1, "body": "estoy de acuerdo", "postId": 1, "username": "Samantha" },
     { "id": 2, "body": "Estoy en desacuerdo", "postId": 1, "username": "Karianne" }
-  ],
+  ]
 }
 
